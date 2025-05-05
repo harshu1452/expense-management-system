@@ -10,7 +10,6 @@ import turing.example.expensemanagement.dto.ApprovalDTO;
 import turing.example.expensemanagement.entity.Approval;
 import turing.example.expensemanagement.repository.ApprovalRepository;
 
-import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
